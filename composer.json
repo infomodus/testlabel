@@ -1,0 +1,11 @@
+{
+  "name": "infomodus/testlabel",
+  "description": "infomodus testlabel",
+  "require": {
+    "php": "^7.1",
+  },
+  "version": "3.4.0",
+  "license": [
+    "proprietary"
+  ]
+}
