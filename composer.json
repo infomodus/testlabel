@@ -2,7 +2,7 @@
   "name": "infomodus/testlabel",
   "description": "infomodus testlabel",
   "require": {
-    "php": "^7.1",
+    "php": "^7.1"
   },
   "version": "1.0.0"
 }
