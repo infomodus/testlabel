@@ -4,8 +4,5 @@
   "require": {
     "php": "^7.1",
   },
-  "version": "3.4.0",
-  "license": [
-    "proprietary"
-  ]
+  "version": "1.0.0"
 }
